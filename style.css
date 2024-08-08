@@ -75,6 +75,18 @@ height: 350px;}
 padding: 17px;}
 
 
+
+@media (max-width: 991px){
+section {
+  position: relative;
+  background-image:url("banner.jpg");
+  background-size: cover;
+  background-position: center;
+min-height: 100vh;
+}
+  
+}
+
 @media (max-width: 991px) {
   section {
     padding-top: 50px;
